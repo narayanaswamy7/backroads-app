@@ -1,6 +1,8 @@
 # Backroads App
 
-[Working Application - Deployed](https://narayanaswamy7.github.io/backroads-app)
+[Working Application - Deployed]
+[Deployed on Netlify](https://nswamy-backroads-app.netlify.app/)
+[Deployed on GitHub Pages](https://narayanaswamy7.github.io/backroads-app)
 
 - backroads-html - working html/css/javascript project (contains assets)
 - final(complete source code) - working react application
